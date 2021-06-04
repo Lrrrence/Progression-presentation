@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.18)  19 MAY 2021 14:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.18)  4 JUN 2021 11:38
 entering extended mode
 **"c:/Users/yulel/Documents/LaTeX/Progression presentation/namkeen-sidebar/Namkeentheme.tex"
 (c:/Users/yulel/Documents/LaTeX/Progression presentation/namkeen-sidebar/Namkeentheme.tex
@@ -931,7 +931,7 @@ Overfull \hbox (71.13188pt too wide) in paragraph at lines 91--91
 []$[]$[]  
  []
 
-<images/waves.pdf, id=72, 845.1575pt x 598.235pt>
+<images/waves.pdf, id=52, 845.1575pt x 598.235pt>
 File: images/waves.pdf Graphic file (type pdf)
 <use images/waves.pdf>
 Package pdftex.def Info: images/waves.pdf  used on input line 91.
@@ -989,12 +989,7 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
 
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-<images/unilogo.png, id=146, 602.25pt x 130.44736pt>
+<images/unilogo.png, id=116, 602.25pt x 130.44736pt>
 File: images/unilogo.png Graphic file (type png)
 <use images/unilogo.png>
 Package pdftex.def Info: images/unilogo.png  used on input line 97.
@@ -1009,16 +1004,11 @@ LaTeX Font Info:    Trying to load font information for TS1+phv on input line 12
  (C:\Users\yulel\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
-<images/turbine plus ngv.png, id=164, 649.82774pt x 527.69145pt>
+<images/turbine plus ngv.png, id=131, 649.82774pt x 527.69145pt>
 File: images/turbine plus ngv.png Graphic file (type png)
 <use images/turbine plus ngv.png>
 Package pdftex.def Info: images/turbine plus ngv.png  used on input line 126.
 (pdftex.def)             Requested size: 177.82973pt x 144.403pt.
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
@@ -1108,23 +1098,13 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
 
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
 File: images/unilogo.png Graphic file (type png)
 <use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 147.
+Package pdftex.def Info: images/unilogo.png  used on input line 146.
 (pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
 [4
 
 ]
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
@@ -1171,16 +1151,11 @@ Package pdftex.def Info: images/unilogo.png  used on input line 160.
 [5
 
 ]
-<images/venndiagram.png, id=235, 1900.85156pt x 1057.70157pt>
+<images/venndiagram.png, id=183, 1900.85156pt x 1057.70157pt>
 File: images/venndiagram.png Graphic file (type png)
 <use images/venndiagram.png>
 Package pdftex.def Info: images/venndiagram.png  used on input line 171.
 (pdftex.def)             Requested size: 355.65947pt x 197.89894pt.
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
@@ -1228,159 +1203,6 @@ Package pdftex.def Info: images/unilogo.png  used on input line 171.
 [6
 
  <./images/venndiagram.png>]
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-File: images/unilogo.png Graphic file (type png)
-<use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 178.
-(pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
-[7
-
-]
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-File: images/unilogo.png Graphic file (type png)
-<use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 185.
-(pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
-[8
-
-]
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-File: images/unilogo.png Graphic file (type png)
-<use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 192.
-(pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
-[9
-
-]
 Package epstopdf Info: Source file: <images/testdiagramsimple.eps>
 (epstopdf)                    date: 2021-05-06 10:39:47
 (epstopdf)                    size: 2644518 bytes
@@ -1388,15 +1210,15 @@ Package epstopdf Info: Source file: <images/testdiagramsimple.eps>
 (epstopdf)                    date: 2021-05-19 11:25:14
 (epstopdf)                    size: 44263 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=images/testdiagramsimple-eps-converted-to.pdf images/testdiagramsimple.eps>
-(epstopdf)             \includegraphics on input line 210.
+(epstopdf)             \includegraphics on input line 189.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/testdiagramsimple-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/testdiagramsimple-eps-converted-to.pdf, id=314, 1479.5275pt x 590.205pt>
+<images/testdiagramsimple-eps-converted-to.pdf, id=199, 1479.5275pt x 590.205pt>
 File: images/testdiagramsimple-eps-converted-to.pdf Graphic file (type pdf)
 <use images/testdiagramsimple-eps-converted-to.pdf>
-Package pdftex.def Info: images/testdiagramsimple-eps-converted-to.pdf  used on input line 210.
+Package pdftex.def Info: images/testdiagramsimple-eps-converted-to.pdf  used on input line 189.
 (pdftex.def)             Requested size: 266.7446pt x 106.40341pt.
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -1438,16 +1260,11 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
 
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
 File: images/unilogo.png Graphic file (type png)
 <use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 210.
+Package pdftex.def Info: images/unilogo.png  used on input line 189.
 (pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
-[10
+[7
 
  <./images/testdiagramsimple-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/aluplatemeasured.eps>
@@ -1457,15 +1274,15 @@ Package epstopdf Info: Source file: <images/aluplatemeasured.eps>
 (epstopdf)                    date: 2021-05-19 11:35:40
 (epstopdf)                    size: 24731 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=images/aluplatemeasured-eps-converted-to.pdf images/aluplatemeasured.eps>
-(epstopdf)             \includegraphics on input line 230.
+(epstopdf)             \includegraphics on input line 209.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/aluplatemeasured-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/aluplatemeasured-eps-converted-to.pdf, id=354, 388.45125pt x 299.1175pt>
+<images/aluplatemeasured-eps-converted-to.pdf, id=235, 388.45125pt x 299.1175pt>
 File: images/aluplatemeasured-eps-converted-to.pdf Graphic file (type pdf)
 <use images/aluplatemeasured-eps-converted-to.pdf>
-Package pdftex.def Info: images/aluplatemeasured-eps-converted-to.pdf  used on input line 230.
+Package pdftex.def Info: images/aluplatemeasured-eps-converted-to.pdf  used on input line 209.
 (pdftex.def)             Requested size: 177.82973pt x 136.93391pt.
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -1507,73 +1324,18 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
 
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
 File: images/unilogo.png Graphic file (type png)
 <use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 230.
+Package pdftex.def Info: images/unilogo.png  used on input line 209.
 (pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
-[11
+[8
 
  <./images/aluplatemeasured-eps-converted-to.pdf>]
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-File: images/unilogo.png Graphic file (type png)
-<use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 245.
-(pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
-[12
-
-]
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
+<images/comsoldiagram.png, id=266, 1556.9367pt x 496.9767pt>
+File: images/comsoldiagram.png Graphic file (type png)
+<use images/comsoldiagram.png>
+Package pdftex.def Info: images/comsoldiagram.png  used on input line 227.
+(pdftex.def)             Requested size: 355.65947pt x 113.52873pt.
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
@@ -1616,15 +1378,64 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 
 File: images/unilogo.png Graphic file (type png)
 <use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 258.
+Package pdftex.def Info: images/unilogo.png  used on input line 227.
 (pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
-[13
+[9
+
+ <./images/comsoldiagram.png
+
+pdfTeX warning: pdflatex (file ./images/comsoldiagram.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
+>]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: images/unilogo.png Graphic file (type png)
+<use images/unilogo.png>
+Package pdftex.def Info: images/unilogo.png  used on input line 240.
+(pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
+[10
 
 ]
-<images/gantt.pdf, id=429, 1195.0156pt x 682.86618pt>
+<images/gantt.pdf, id=296, 1195.0156pt x 682.86618pt>
 File: images/gantt.pdf Graphic file (type pdf)
 <use images/gantt.pdf>
-Package pdftex.def Info: images/gantt.pdf  used on input line 267.
+Package pdftex.def Info: images/gantt.pdf  used on input line 249.
 (pdftex.def)             Requested size: 355.65947pt x 203.23596pt.
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -1666,27 +1477,22 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
 
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
 File: images/unilogo.png Graphic file (type png)
 <use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 267.
+Package pdftex.def Info: images/unilogo.png  used on input line 249.
 (pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
-[14
+[11
 
  <./images/gantt.pdf, page is rotated 90 degrees>]
-Overfull \hbox (71.13188pt too wide) in paragraph at lines 274--274
+Overfull \hbox (71.13188pt too wide) in paragraph at lines 256--256
 []$[]$ 
  []
 
 File: images/waves.pdf Graphic file (type pdf)
 <use images/waves.pdf>
-Package pdftex.def Info: images/waves.pdf  used on input line 274.
+Package pdftex.def Info: images/waves.pdf  used on input line 256.
 (pdftex.def)             Requested size: 455.2563pt x 256.07674pt.
-[15
+[12
 
 ]
 \tf@nav=\write6
@@ -1700,20 +1506,20 @@ Package pdftex.def Info: images/waves.pdf  used on input line 274.
 
  (Namkeentheme.aux)
 Package rerunfilecheck Info: File `Namkeentheme.out' has not changed.
-(rerunfilecheck)             Checksum: 87C6F3F37F4FB4E4A7D65E13D4181D06;1980.
+(rerunfilecheck)             Checksum: 2420C32D23770E2A72ACA2D7786ACA1A;1100.
  ) 
 Here is how much of TeX's memory you used:
- 27501 strings out of 479173
- 552880 string characters out of 2854167
- 832882 words of memory out of 3000000
- 44462 multiletter control sequences out of 15000+600000
+ 27463 strings out of 479173
+ 552475 string characters out of 2854167
+ 828803 words of memory out of 3000000
+ 44434 multiletter control sequences out of 15000+600000
  444599 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,21n,126p,501b,1208s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/ibm/plex/IBMPlexSans-Bold.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/ibm/plex/IBMPlexSans-Text.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertinus-type1/LibertinusSans-Italic.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertinus-type1/LibertinusSans-Regular.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Namkeentheme.pdf (15 pages, 9965938 bytes).
+Output written on Namkeentheme.pdf (12 pages, 11149814 bytes).
 PDF statistics:
- 532 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 205 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 392 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 170 words of extra memory for PDF output out of 10000 (max. 10000000)
 

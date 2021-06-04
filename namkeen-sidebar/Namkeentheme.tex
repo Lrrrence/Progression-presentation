@@ -127,9 +127,8 @@
 
 %%%%%%%%%%%%%%%%
 
-\section{Research objectives}
-\subsection{Research questions}
-\begin{frame}{Research objectives}{Research questions}
+\section{Research questions}
+\begin{frame}{Research questions}
 
   \begin{enumerate}
       \item How can the temperature dependence of Lamb waves be utilised for the temperature monitoring of NGVs?\label{itm:1}
@@ -148,15 +147,16 @@
 
 %%%%%%%%%%%%%%%%
 
-\subsection{Research output}
-\begin{frame}{Research objectives}{Research output}
-
+\section{Research summary}
+\begin{frame}{Research summary}
   \begin{itemize}
-    \item Student poster ``Temperature monitoring of nozzle guide vanes (NGVs) using ultrasonic guided waves'' presented at \href{https://event.asme.org/Turbo-Expo}{ASME Turbo Expo 2020.} Virtual conference 21--25 September 2020.
-    \item Journal review paper ``Surface temperature condition monitoring methods for aerospace turbomachinery: exploring the use of ultrasonic guided waves'' published to \href{https://iopscience.iop.org/journal/0957-0233}{IOP Measurement, Science, and Technology.}
-    \item Conference paper ``Towards in-flight temperature monitoring for nozzle guide vanes using ultrasonic guided waves'' accepted for \href{https://www.aiaa.org/propulsionenergy}{AIAA Propulsion Energy}, 9--11 August 2021.
-    \item Journal paper on the COMSOL modelling of a guided wave sensor system for harsh environments to be submitted to \href{https://www.mdpi.com/journal/sensors}{MDPI Sensors} in the near future.
-\end{itemize}
+    \item Evaluation of the currently used methods for temperature monitoring of NGVs/turbine blades, with a focus on online methods.
+    \item An investigation into whether ultrasonic methods are a suitable alternative to the currently available monitoring systems.
+    \item Identifying a method of exciting Lamb waves in plate-like structures.
+    \item Understanding the effect of temperature on Lamb wave propagation.
+    \item Verification of the theoretical temperature sensitivities of Lamb wave modes with experimental data. Measurements up to 100\si{\degreeCelsius} in an aluminium plate.
+    \item COMSOL modelling of the experimental test system. The model will be used in future studies.
+\end{itemize} 
 \end{frame}
 
 %%%%%%%%%%%%%%%%
@@ -172,34 +172,13 @@
 
 %%%%%%%%%%%%%%%%
 
-\section{Acoustic temperature monitoring}
-\begin{frame}{Acoustic temperature monitoring}
-
-\end{frame}
-
-%%%%%%%%%%%%%%%%
-
-\section{Theoretical study}
-\begin{frame}{Theoretical study}
-
-\end{frame}
-
-%%%%%%%%%%%%%%%%
-
-\section{COMSOL study}
-\begin{frame}{COMSOL study}
-
-\end{frame}
-
-%%%%%%%%%%%%%%%%
-
 \section{Experimental study}
 \begin{frame}{Experimental study}{Method}
 
 \begin{itemize}
   \item The temperature sensitivity of the $S_0$ mode has been verified experimentally by measuring a change in group velocity with temperature.
   \item Wedge transducers in a pitch-catch configuration are used to excite a 1~mm thick aluminium plate at 1 MHz-mm, using a 10--cycle sine pulse. 
-  \item Time of flight is measured using cross-correlation.
+  \item Time of flight is measured using a cross-correlation function.
   \item Group velocity is calculated using the distance between transducers.
 \end{itemize}
 
@@ -231,23 +210,26 @@
 
 %%%%%%%%%%%%%%%%
 
-\section{Research summary and future plans}
-\subsection{Research summary}
-\begin{frame}{Research summary and future plans}{Research summary}
-  \begin{itemize}
-    \item Evaluation of the currently used methods for temperature monitoring of NGVs/turbine blades, with a focus on online methods.
-    \item An investigation into whether ultrasonic methods are a suitable alternative to the currently available monitoring systems.
-    \item Identifying a method of exciting Lamb waves in plate-like structures.
-    \item Understanding the effect of temperature on Lamb wave propagation.
-    \item Verification of the theoretical temperature sensitivities of Lamb wave modes with experimental data. Measurements up to 100\si{\degreeCelsius} in an aluminium plate.
-    \item COMSOL modelling of the experimental test system. The model will be used in future studies.
-\end{itemize} 
+\section{COMSOL model}
+\begin{frame}{COMSOL model}
+
+\begin{itemize}
+    \item Model initially developed to mimic experimental setup and verify experimental results.
+    \item Group velocity of $S_0$ mode is comparable with theoretical/experimental results.
+    \item Model will be used in the future to investigate the effect of cooling holes and TBCs on wave propagation. 
+    \item A new model will be developed to investigate the suitability of a waveguide transducer system.  
+\end{itemize}
+
+\begin{center}
+  \includegraphics[width=\textwidth]{images/comsoldiagram.png}
+ \end{center}
+
 \end{frame}
 
 %%%%%%%%%%%%%%%%
 
-\subsection{Future plans}
-\begin{frame}{Research summary and future plans}{Future plans}
+\section{Future plans}
+\begin{frame}{Future plans}
   \begin{itemize}
     \item The effect of plate holes on Lamb wave mode propagation will be investigated through simulation and experimentation.
     \item The ability to monitor temperature at a number of locations through the analysis of acoustic reflections will be explored.
