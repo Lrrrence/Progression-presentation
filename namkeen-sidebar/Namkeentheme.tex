@@ -107,8 +107,8 @@
     \begin{itemize}
       \item Nozzle guide vanes are operated at extremely high temperatures ($\sim$1500°C).
       \item Online monitoring is difficult to achieve.
-      \item Currently used methods require optical access. 
-      \item Acoustic methods offer a potential alternative.
+      \item Currently used methods require optical access or surface application.
+      \item Ultrasonic guided wave based methods offer a potential alternative.
     \end{itemize}
   \end{column}
   \begin{column}{0.5\textwidth}  %%<--- here
@@ -138,6 +138,7 @@
       \item High temperatures
       \item Cooling holes
       \item Curved surfaces
+      \item Surface coatings
   \end{itemize}
       \item Which of the Lamb wave modes (or group of modes) is most appropriate for temperature monitoring of NGVs?\label{itm:4}
       \item To what extent can acoustic reflections from cooling holes be used to monitor temperature at a number of locations across the structure of an NGV?\label{itm:5}
@@ -176,8 +177,8 @@
 \begin{frame}{Experimental study}{Method}
 
 \begin{itemize}
-  \item The temperature sensitivity of the $S_0$ mode has been verified experimentally by measuring a change in group velocity with temperature.
-  \item Wedge transducers in a pitch-catch configuration are used to excite a 1~mm thick aluminium plate at 1 MHz-mm, using a 10--cycle sine pulse. 
+  \item The temperature sensitivities of the $S_0$, $A_1$, and $S_1$ modes have been verified experimentally by measuring a change in group velocity with temperature.
+  \item Wedge transducers in a pitch-catch configuration are used to excite 1~mm, 2.5~mm, and 4~mm thick aluminium plates at 1 MHz.
   \item Time of flight is measured using a cross-correlation function.
   \item Group velocity is calculated using the distance between transducers.
 \end{itemize}
@@ -194,16 +195,17 @@
 
   \begin{columns}
     \begin{column}{0.5\textwidth}
-      \begin{itemize}
-        \item Measured velocity is comparable with predicted velocity extracted from dispersion curves, within 4.89~$\pm$~2.27~m~s$^{-1}$ on average. 
-        \item The temperature sensitivity of the system is 1.26--1.78~m~s$^{-1}$\si{\degreeCelsius}$^{-1}$ over the range 24\si{\degreeCelsius}--94\si{\degreeCelsius}.
-        \item Measurements of $S_1$ and $A_1$ modes to follow shortly. 
-      \end{itemize}
+       \begin{center}
+        \includegraphics[width=\textwidth]{images/aluplatemeasured.eps}
+       \end{center}
     \end{column}
     \begin{column}{0.5\textwidth}  %%<--- here
-        \begin{center}
-         \includegraphics[width=\textwidth]{images/aluplatemeasured.eps}
-        \end{center}
+      \begin{center}
+        \includegraphics[width=0.7\textwidth]{images/a1moderesult.eps}
+       \end{center}
+       \begin{center}
+        \includegraphics[width=0.7\textwidth]{images/s1moderesult.eps}
+       \end{center}
     \end{column}
   \end{columns}
 \end{frame}

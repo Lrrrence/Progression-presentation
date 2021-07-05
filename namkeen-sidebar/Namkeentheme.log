@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.18)  4 JUN 2021 11:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.18)  5 JUL 2021 10:28
 entering extended mode
 **"c:/Users/yulel/Documents/LaTeX/Progression presentation/namkeen-sidebar/Namkeentheme.tex"
 (c:/Users/yulel/Documents/LaTeX/Progression presentation/namkeen-sidebar/Namkeentheme.tex
@@ -1100,7 +1100,7 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 
 File: images/unilogo.png Graphic file (type png)
 <use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 146.
+Package pdftex.def Info: images/unilogo.png  used on input line 147.
 (pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
 [4
 
@@ -1146,7 +1146,7 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 
 File: images/unilogo.png Graphic file (type png)
 <use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 160.
+Package pdftex.def Info: images/unilogo.png  used on input line 161.
 (pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
 [5
 
@@ -1154,7 +1154,7 @@ Package pdftex.def Info: images/unilogo.png  used on input line 160.
 <images/venndiagram.png, id=183, 1900.85156pt x 1057.70157pt>
 File: images/venndiagram.png Graphic file (type png)
 <use images/venndiagram.png>
-Package pdftex.def Info: images/venndiagram.png  used on input line 171.
+Package pdftex.def Info: images/venndiagram.png  used on input line 172.
 (pdftex.def)             Requested size: 355.65947pt x 197.89894pt.
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -1198,7 +1198,7 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 
 File: images/unilogo.png Graphic file (type png)
 <use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 171.
+Package pdftex.def Info: images/unilogo.png  used on input line 172.
 (pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
 [6
 
@@ -1210,7 +1210,7 @@ Package epstopdf Info: Source file: <images/testdiagramsimple.eps>
 (epstopdf)                    date: 2021-05-19 11:25:14
 (epstopdf)                    size: 44263 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=images/testdiagramsimple-eps-converted-to.pdf images/testdiagramsimple.eps>
-(epstopdf)             \includegraphics on input line 189.
+(epstopdf)             \includegraphics on input line 190.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1218,7 +1218,7 @@ pdfTeX warning: pdflatex (file ./images/testdiagramsimple-eps-converted-to.pdf):
 <images/testdiagramsimple-eps-converted-to.pdf, id=199, 1479.5275pt x 590.205pt>
 File: images/testdiagramsimple-eps-converted-to.pdf Graphic file (type pdf)
 <use images/testdiagramsimple-eps-converted-to.pdf>
-Package pdftex.def Info: images/testdiagramsimple-eps-converted-to.pdf  used on input line 189.
+Package pdftex.def Info: images/testdiagramsimple-eps-converted-to.pdf  used on input line 190.
 (pdftex.def)             Requested size: 266.7446pt x 106.40341pt.
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -1262,7 +1262,7 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 
 File: images/unilogo.png Graphic file (type png)
 <use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 189.
+Package pdftex.def Info: images/unilogo.png  used on input line 190.
 (pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
 [7
 
@@ -1274,7 +1274,7 @@ Package epstopdf Info: Source file: <images/aluplatemeasured.eps>
 (epstopdf)                    date: 2021-05-19 11:35:40
 (epstopdf)                    size: 24731 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=images/aluplatemeasured-eps-converted-to.pdf images/aluplatemeasured.eps>
-(epstopdf)             \includegraphics on input line 209.
+(epstopdf)             \includegraphics on input line 211.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1282,8 +1282,42 @@ pdfTeX warning: pdflatex (file ./images/aluplatemeasured-eps-converted-to.pdf): 
 <images/aluplatemeasured-eps-converted-to.pdf, id=235, 388.45125pt x 299.1175pt>
 File: images/aluplatemeasured-eps-converted-to.pdf Graphic file (type pdf)
 <use images/aluplatemeasured-eps-converted-to.pdf>
-Package pdftex.def Info: images/aluplatemeasured-eps-converted-to.pdf  used on input line 209.
+Package pdftex.def Info: images/aluplatemeasured-eps-converted-to.pdf  used on input line 211.
 (pdftex.def)             Requested size: 177.82973pt x 136.93391pt.
+Package epstopdf Info: Source file: <images/a1moderesult.eps>
+(epstopdf)                    date: 2021-06-04 13:13:35
+(epstopdf)                    size: 554114 bytes
+(epstopdf)             Output file: <images/a1moderesult-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-07-05 09:46:39
+(epstopdf)                    size: 26035 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=images/a1moderesult-eps-converted-to.pdf images/a1moderesult.eps>
+(epstopdf)             \includegraphics on input line 211.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./images/a1moderesult-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images/a1moderesult-eps-converted-to.pdf, id=236, 383.4325pt x 298.11375pt>
+File: images/a1moderesult-eps-converted-to.pdf Graphic file (type pdf)
+<use images/a1moderesult-eps-converted-to.pdf>
+Package pdftex.def Info: images/a1moderesult-eps-converted-to.pdf  used on input line 211.
+(pdftex.def)             Requested size: 124.48026pt x 96.78119pt.
+Package epstopdf Info: Source file: <images/s1moderesult.eps>
+(epstopdf)                    date: 2021-06-11 14:04:40
+(epstopdf)                    size: 577926 bytes
+(epstopdf)             Output file: <images/s1moderesult-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-07-05 09:46:40
+(epstopdf)                    size: 25880 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=images/s1moderesult-eps-converted-to.pdf images/s1moderesult.eps>
+(epstopdf)             \includegraphics on input line 211.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./images/s1moderesult-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images/s1moderesult-eps-converted-to.pdf, id=237, 383.4325pt x 298.11375pt>
+File: images/s1moderesult-eps-converted-to.pdf Graphic file (type pdf)
+<use images/s1moderesult-eps-converted-to.pdf>
+Package pdftex.def Info: images/s1moderesult-eps-converted-to.pdf  used on input line 211.
+(pdftex.def)             Requested size: 124.48026pt x 96.78119pt.
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
@@ -1326,15 +1360,15 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 
 File: images/unilogo.png Graphic file (type png)
 <use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 209.
+Package pdftex.def Info: images/unilogo.png  used on input line 211.
 (pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
 [8
 
- <./images/aluplatemeasured-eps-converted-to.pdf>]
-<images/comsoldiagram.png, id=266, 1556.9367pt x 496.9767pt>
+ <./images/aluplatemeasured-eps-converted-to.pdf> <./images/a1moderesult-eps-converted-to.pdf> <./images/s1moderesult-eps-converted-to.pdf>]
+<images/comsoldiagram.png, id=288, 1556.9367pt x 496.9767pt>
 File: images/comsoldiagram.png Graphic file (type png)
 <use images/comsoldiagram.png>
-Package pdftex.def Info: images/comsoldiagram.png  used on input line 227.
+Package pdftex.def Info: images/comsoldiagram.png  used on input line 229.
 (pdftex.def)             Requested size: 355.65947pt x 113.52873pt.
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -1378,7 +1412,7 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 
 File: images/unilogo.png Graphic file (type png)
 <use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 227.
+Package pdftex.def Info: images/unilogo.png  used on input line 229.
 (pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
 [9
 
@@ -1427,15 +1461,15 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 
 File: images/unilogo.png Graphic file (type png)
 <use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 240.
+Package pdftex.def Info: images/unilogo.png  used on input line 242.
 (pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
 [10
 
 ]
-<images/gantt.pdf, id=296, 1195.0156pt x 682.86618pt>
+<images/gantt.pdf, id=318, 1195.0156pt x 682.86618pt>
 File: images/gantt.pdf Graphic file (type pdf)
 <use images/gantt.pdf>
-Package pdftex.def Info: images/gantt.pdf  used on input line 249.
+Package pdftex.def Info: images/gantt.pdf  used on input line 251.
 (pdftex.def)             Requested size: 355.65947pt x 203.23596pt.
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -1479,18 +1513,18 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 
 File: images/unilogo.png Graphic file (type png)
 <use images/unilogo.png>
-Package pdftex.def Info: images/unilogo.png  used on input line 249.
+Package pdftex.def Info: images/unilogo.png  used on input line 251.
 (pdftex.def)             Requested size: 48.01369pt x 10.39818pt.
 [11
 
  <./images/gantt.pdf, page is rotated 90 degrees>]
-Overfull \hbox (71.13188pt too wide) in paragraph at lines 256--256
+Overfull \hbox (71.13188pt too wide) in paragraph at lines 258--258
 []$[]$ 
  []
 
 File: images/waves.pdf Graphic file (type pdf)
 <use images/waves.pdf>
-Package pdftex.def Info: images/waves.pdf  used on input line 256.
+Package pdftex.def Info: images/waves.pdf  used on input line 258.
 (pdftex.def)             Requested size: 455.2563pt x 256.07674pt.
 [12
 
@@ -1509,17 +1543,17 @@ Package rerunfilecheck Info: File `Namkeentheme.out' has not changed.
 (rerunfilecheck)             Checksum: 2420C32D23770E2A72ACA2D7786ACA1A;1100.
  ) 
 Here is how much of TeX's memory you used:
- 27463 strings out of 479173
- 552475 string characters out of 2854167
+ 27477 strings out of 479173
+ 553029 string characters out of 2854167
  828803 words of memory out of 3000000
- 44434 multiletter control sequences out of 15000+600000
+ 44446 multiletter control sequences out of 15000+600000
  444599 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,21n,126p,501b,1208s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/ibm/plex/IBMPlexSans-Bold.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/ibm/plex/IBMPlexSans-Text.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertinus-type1/LibertinusSans-Italic.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertinus-type1/LibertinusSans-Regular.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Namkeentheme.pdf (12 pages, 11149814 bytes).
+ 128i,21n,126p,501b,1190s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/ibm/plex/IBMPlexSans-Bold.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/ibm/plex/IBMPlexSans-Text.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertinus-type1/LibertinusSans-Italic.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertinus-type1/LibertinusSans-Regular.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on Namkeentheme.pdf (12 pages, 11185901 bytes).
 PDF statistics:
- 392 PDF objects out of 1000 (max. 8388607)
+ 411 PDF objects out of 1000 (max. 8388607)
  40 named destinations out of 1000 (max. 500000)
- 170 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 180 words of extra memory for PDF output out of 10000 (max. 10000000)
 
